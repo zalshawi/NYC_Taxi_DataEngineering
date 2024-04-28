@@ -13,6 +13,6 @@ This project aims to develop a dimensional model for `NYC Taxi` dataset. By stru
 ![](https://raw.githubusercontent.com/zalshawi/NYC_Taxi_DataEngineering/main/data_model.png)
 
 
-## Collaboration
+## Contributors
 - [![LinkedIn](https://img.shields.io/badge/-Ziyad_Alshawi-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/zalshawi)
 - [![LinkedIn](https://img.shields.io/badge/-Abdullah_Alqahtani-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/Abdullah-alqahtani-987b69197) 
