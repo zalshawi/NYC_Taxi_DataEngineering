@@ -9,6 +9,10 @@ This project aims to develop a dimensional model for `NYC Taxi` dataset. By stru
 - **Data Wrangling**: `Pandas` for transforming and shaping data.
 - **Database Management**: `SQLAlchemy` for ORM-based interactions with SQL Server.
 
+## Data Model
+![]([https://i.imgur.com/Nsa0X9O.png](https://raw.githubusercontent.com/zalshawi/NYC_Taxi_DataEngineering/main/data_model.png))
+
+
 ## Collaboration
 - [![LinkedIn](https://img.shields.io/badge/-Ziyad_Alshawi-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/zalshawi)
 - [![LinkedIn](https://img.shields.io/badge/-Abdullah_Alqahtani-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/Abdullah-alqahtani-987b69197) 
