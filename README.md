@@ -10,7 +10,7 @@ This project aims to develop a dimensional model for `NYC Taxi` dataset. By stru
 - **Database Management**: `SQLAlchemy` for ORM-based interactions with SQL Server.
 
 ## Data Model
-![]([https://i.imgur.com/Nsa0X9O.png](https://raw.githubusercontent.com/zalshawi/NYC_Taxi_DataEngineering/main/data_model.png))
+![](https://raw.githubusercontent.com/zalshawi/NYC_Taxi_DataEngineering/main/data_model.png)
 
 
 ## Collaboration
